@@ -1,0 +1,47 @@
+header {
+  background-color: white;
+  color: #585858;
+  font-size: 24px;
+  text-align: center;
+  padding: 20px 0px;
+  width: 100%
+}
+
+.subheader {
+  background-color: white;
+  font-size: 16px;
+  text-align: center;
+  padding-bottom: 20px;
+  width: 100%
+}
+
+button {
+  background-color: white;
+  color: #585858;
+  border-style: none;
+  border-color: none;
+}
+body {
+  margin: 0px;
+}
+
+.homePage {
+  padding: 20px 20px;
+  background-color: #E8E8E8;
+  font-size: 18px;
+  min-height: calc(100vh);
+
+  .indexPhoto {
+    width: 100%
+  }
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  font-size: 16px;
+  background-color: white;
+  color: #585858;
+  padding: 20px 20px;
+}
